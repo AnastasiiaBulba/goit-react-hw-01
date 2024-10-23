@@ -1,0 +1,18 @@
+.friendList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.friendListItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ece6e6;
+  color: #1d1c1c;
+  border: 2px solid #0b0b0b;
+  border-radius: 10px;
+  padding: 10px;
+}

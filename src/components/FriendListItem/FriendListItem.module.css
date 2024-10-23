@@ -1,0 +1,18 @@
+.friendName {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: black;
+}
+
+.friendStatus {
+  font-weight: bold;
+}
+
+.friendStatusOnline {
+  color: green;
+}
+
+.friendStatusOffline {
+  color: red;
+}
